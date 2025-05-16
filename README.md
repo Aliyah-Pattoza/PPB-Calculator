@@ -3,7 +3,9 @@
 A simple Android calculator app built using **Java** and **Android Studio**.  
 This app performs basic arithmetic operations: addition, subtraction, multiplication, and division.
 
-![Screenshot 2025-05-17 002134](https://github.com/user-attachments/assets/d26c3c0d-a252-41bf-8cdf-7fd6d0f818ae)
+<p align="center">
+  <img src="![Screenshot 2025-05-17 002134](https://github.com/user-attachments/assets/d26c3c0d-a252-41bf-8cdf-7fd6d0f818ae)" alt="Calculator App Screenshot" width="300"/>
+</p>
 
 ---
 
